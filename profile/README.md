@@ -2,6 +2,7 @@
 
 Who are we?
 
+We are the Currency Sense capstone project team
 <!--
 
 **Here are some ideas to get you started:**
