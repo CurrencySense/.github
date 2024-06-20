@@ -1,8 +1,16 @@
-## Hi there 👋
+<div align="center">
 
-Who are we?
+![logo](https://github.com/CurrencySense/CurrencySense-MD/blob/master/app/src/main/res/drawable/logo.png)
 
-We are the Currency Sense capstone project team
+</div>
+
+# Currency Sense
+**Financial Clarity At Your Fingertips**
+
+## Organization
+Currency Team is a product from Capstone Team
+
+
 <!--
 
 **Here are some ideas to get you started:**
