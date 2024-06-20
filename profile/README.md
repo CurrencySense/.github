@@ -1,6 +1,6 @@
 <div align="center">
 
-![logo](https://github.com/CurrencySense/CurrencySense-MD/blob/master/app/src/main/res/drawable/logo.png)
+![logo](https://github.com/CurrencySense/.github/blob/main/profile/Slide%2016_9%20-%201.png)
 
 </div>
 
