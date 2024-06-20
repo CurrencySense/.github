@@ -5,19 +5,30 @@
 </div>
 
 # Currency Sense
-**Financial Clarity At Your Fingertips**
+**Currency Sense: Financial Clarity At Your Fingertips**, Is an application developed to assist visually impaired people in identifying the value of money, by scanning the money. In addition, the application is made with a friendly UI design for the visually impaired. The application has a voice output that will notify you of the scan results, and a navigation location that can be used. 
 
 ## Organization
-Currency Team is a product from Capstone Team
+<div align=center>
 
+| NAME | LEARNING PATH |
+|:--------------------:|:--------: |
+| Chiquito Shaduq Aurick Fulvian |`Machine Learning`|
+| Putri Rigita Cahyani |`Machine Learning`|
+| Syifa'Ul Aini Zahroh |`Machine Learning`|
+| Annadia Dwina Haqiqi |`Cloud Computing`|
+| Muhammad Dafin Abiyasa |`Cloud Computing`|
+| Devin Alfanius |`Mobile Development`|
+| Riski Agung Romadhon |`Mobile Development`|
 
-<!--
+</div>
 
-**Here are some ideas to get you started:**
-find emoji here - emojipedia.org
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Program Flow
+```mermaid
+graph
+  A(Splash)-->B(Main Activity);
+  B-->C(Scan Activity);
+  B-->D(History Activity);
+  C-->E(Camera Activiy);
+  E-->F(Result Activity);
+  D-->G(History Item Activity);
+```
