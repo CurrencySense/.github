@@ -24,11 +24,16 @@
 
 ### Job Desk
 - ML<br>
-The Machine Learning Division works in the preparation and delivery of models that will be used in the classification of money values. The initial preparation of this division is to conduct research related to the nominal currency that is quite widely circulated in the community, then collect data samples or can be said to be a model and continued by training the model by dividing it into 2 parts, namely Training and Testing, then validating by recognizing the nominal money given.</br>
-Tools: Tensorflow, 
+The Machine Learning Division works in the preparation and delivery of models that will be used in the classification of money values. The initial preparation of this division is to conduct research related to the nominal currency that is quite widely circulated in the community, then collect data samples or can be said to be a model and continued by training the model by dividing it into 2 parts, namely Training and Testing, then validating by recognizing the nominal money given.<br>
+Tools: Tensorflow, Python, and Library Python
 
-- CC
-- MD
+- CC <br>
+The CC division is responsible for deploying the model to the cloud and then creating an API so that the model can be accessed online. After the API is complete, they will provide the API to the MD team in the form of an endpoint, which makes it easy for the MD division to make "requests" to the cloud. Such as: accessing the model in the cloud when the user is using the internet. <br>
+Tools: Google Cloud Platform
+
+- MD <br>
+MD Division, this division is responsible for making android applications, such as designing application workflows, application designs, features that will be useful for users. This division also designs how the application can run well, especially ease and comfort for users. On-device and cloud model implementation is also the responsibility of this division. <br>
+Tools: Android Studio, Tensorflow Lite, Android Jetpack, Material3 Design
 
 ## Program Flow
 ```mermaid
