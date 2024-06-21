@@ -22,6 +22,14 @@
 
 </div>
 
+### Job Desk
+- ML<br>
+The Machine Learning Division works in the preparation and delivery of models that will be used in the classification of money values. The initial preparation of this division is to conduct research related to the nominal currency that is quite widely circulated in the community, then collect data samples or can be said to be a model and continued by training the model by dividing it into 2 parts, namely Training and Testing, then validating by recognizing the nominal money given.</br>
+Tools: Tensorflow, 
+
+- CC
+- MD
+
 ## Program Flow
 ```mermaid
 graph
